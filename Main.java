@@ -16,6 +16,13 @@ public class Main {
         totalScore.add(score);
       }
       s.close();
+
+      System.out.println("   /\\_/\\   ");
+      System.out.println("  ( o.o )  ");
+      System.out.println("   > ^ <   ");
+      System.out.println("  /   \\   ");
+      System.out.println(" /  /\\  \\  ");
+      System.out.println("");
     }
 
     catch(Exception e){
